@@ -1,2 +1,10 @@
-print("Tushar Mavi bhai ae")
-print("hi this side")
+print("E19CSE418 TUSHAR MAVI")
+print("COURSES")
+print("DEV-OPS")
+print("COMMUNICATION")
+print("SOFTWARE ENGINNERING")
+print("CAPSTONE PROJECT")
+print("UG RESEARCH")
+print("ENVIRONMENT")
+print("LAMP")
+
